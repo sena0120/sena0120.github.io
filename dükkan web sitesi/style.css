@@ -225,7 +225,7 @@ button:focus{ outline: 0;}
 /* contact start */
 .contact .row{
     display: flex;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     gap: 1rem;
 
 }
